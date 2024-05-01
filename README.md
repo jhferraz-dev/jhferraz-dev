@@ -5,7 +5,7 @@
   [![instagran](https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/jhferraz10/)
   <a href = "jhferraz70@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333.svg?logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "euamojesus_jh@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4.svg?logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/5577998222995?text=Ol%C3%A1%20sou%20Andre)
+  [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/5577998222995?text=Ol%C3%A1%20sou%20José Henrique)
 
    <a href="https://github.com/jhferraz-dev">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhferraz-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
